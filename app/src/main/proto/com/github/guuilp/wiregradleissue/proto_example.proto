@@ -1,0 +1,7 @@
+syntax = "proto3";
+
+package com.squareup.wire.android.lib.kotlin;
+
+message SomeText {
+  string value = 1;
+}
